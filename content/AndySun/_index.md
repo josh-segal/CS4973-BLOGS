@@ -1,3 +1,3 @@
-# Eric Gerber
+# Andy Sun
 
-Hi, My name is Eric Gerber, and I love statistics and data science!
+Hi, my name is Andy Sun. Class of 2026 studying Business Administrations and Data Science! Yay.

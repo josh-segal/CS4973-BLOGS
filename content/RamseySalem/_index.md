@@ -1,3 +1,3 @@
-# Dr. Mark Fontenot
+# Ramsey Salem
 
-Hi, I'm Mark Fontenot, and I love databases!
+Hello, I am a first year CS major. I love Leuven!!
