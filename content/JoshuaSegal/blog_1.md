@@ -1,8 +1,8 @@
 ---
-title: "Joshua's First Article"
+title: "Week 1 Blog"
 date: 2024-05-17
 draft: false
-description: "Here We Go!"
+description: "AI and NATO: the New and the Old"
 slug: "first"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
@@ -10,7 +10,7 @@ authors:
 showAuthorsBadges : false
 ---
 
-# NATO and AI 
+# AI and NATO 
 
 People talk a lot about Artificial Intelligence. 
 

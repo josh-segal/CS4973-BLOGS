@@ -6,10 +6,13 @@ description: "Our Idea"
 tags: ["authors", "config", "docs"]
 slug: "index"
 authors:
-  - "eric_gerber"
+  - "joshua_segal"
+  - "andy_sun"
+  - "dylan_toplas"
+  - "ramsey_salem"
 showAuthorsBadges : false
 ---
 
-# Welcome to Team WeCanDoThis!
+# Welcome to Team Political Profit Bros
 
-Welcome to the Professorial Team's Blog
+Welcome to the Political Profit Bros Team's Blog
