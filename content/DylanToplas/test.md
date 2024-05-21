@@ -10,7 +10,7 @@ authors:
 showAuthorsBadges : false
 ---
 
-# Test 
+# Week 1 in Belgium
 
 During the first week of the program, it was a nice change of scene that offered multiple opportunities to open my mind. For starters, as soon as one arrives in Belgium, the difference in scenary and architecture is striking with its grand gothic buildings. These types of buildings are scattered throughout both Brussels and Leuven and starkly contrasted the modern architecture that Americans are used to. Moreover, what surprised me about these types of buildings is that they were built centuries ago, and that they were reforemed multiple times throughout history, contrary to my intial belief that they were more recent and therefore did not require additional rebuildings. 
 
