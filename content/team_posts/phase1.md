@@ -36,10 +36,10 @@ Caroline is a 40 year old politician campaign manager, and she is part of a team
 Caroline has a robust background in political science and communications, with over 15 years of experience managing high-profile campaigns. She is known for her strategic use of data to influence public perception and is motivated by a strong sense of ethics and professional success. Caroline believes that holding politicians accountable is crucial for a fair political landscape. 
 
 ## User Stories for Persona 2: Caroline
-- I want to expose the potential conflicts of interest in my opponent’s financial activities, so I can strengthen my candidate’s campaign by highlighting their ethical shortcomings.
-- I want to access detailed reports on stock trades made by the opponent.
-- I want to track the impact of my revelations on public opinion and approval ratings, so I can measure the effectiveness of my campaign strategies.
-- I want to create compelling visualizations of the stock trades and their correlation with legislation, so I can easily share this information with the public and the media.
+- As a campaign manager, I want to expose the potential conflicts of interest in my opponent’s financial activities, so I can strengthen my candidate’s campaign by highlighting their ethical shortcomings.
+- As a campaign manager, I want to access detailed reports on stock trades made by the opponent.
+- As a campaign manager, I want to track the impact of my revelations on public opinion and approval ratings, so I can measure the effectiveness of my campaign strategies.
+- As a campaign manager, I want to create compelling visualizations of the stock trades and their correlation with legislation, so I can easily share this information with the public and the media.
 
 
 
