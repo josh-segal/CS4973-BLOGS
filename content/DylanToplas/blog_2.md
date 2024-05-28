@@ -1,8 +1,8 @@
 ---
-title: "Dylan's First Article"
+title: "Dylan's Second Article"
 date: 2024-05-28
 draft: false
-description: "Project Update #1"
+description: "Progress Report Week 2"
 slug: "second"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
