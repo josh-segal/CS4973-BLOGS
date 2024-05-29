@@ -52,9 +52,6 @@ We found a second data source, Yahoo Finance API (yfinance), to gather more deta
 <img src="https://i.imgur.com/e5JsUks.png">
 <class="center"/>
 
-<img src="https://imgur.com/a/aapl-data-uPVYOR5.png">
-<class="center"/>
-
 ## Visualization 
 
 Our first visualization showcases a certain stock’s price over a period of time(3 years for this visualization). The plotly library has a cool Candlestick feature that allows the viewer to see when a stock price increases or decreases based on color. We then implemented a line of best fit on the stock prices to determine if we could demonstrate a trend or correlation between the two variables of stock price and date. For example, using a line_of_best_fit function, we concluded that the equation of the linear regression of the stock of Apple was y = 1.42741982e+02, 5.36644130e-02x. The y-intercept of 142.74 indicates that exactly 3 years before, the stock price is projected to be $142.72. The slope of 0.05366 means that the stock price is projected to increase by $0.05 per share everytime 1 day passes.
