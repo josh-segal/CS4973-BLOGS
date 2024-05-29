@@ -52,7 +52,7 @@ We found a second data source, Yahoo Finance API (yfinance), to gather more deta
 <img src="https://i.imgur.com/e5JsUks.png">
 <class="center"/>
 
-<img src="https://imgur.com/a/uPVYOR5.png">
+<img src="https://imgur.com/a/aapl-data-uPVYOR5.png">
 <class="center"/>
 
 ## Visualization 
