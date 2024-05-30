@@ -34,15 +34,18 @@ To support our goal of building the application in an organized manner, a compre
 
 #### Investor User ER Diagram
 
-![investor ER](static/investor_ER.png)
+<img src="https://i.imgur.com/yGHELQe.png">
+<class="center">
 
 #### Political Manager User ER Diagram
 
-![manager ER](static/manager_ER.png)
+<img src="https://i.imgur.com/PSCFfJr.png">
+<class="center">
 
 #### Journalist User ER Diagram
 
-![journalist ER](static/journalist_ER.png)
+<img src="https://i.imgur.com/jRv1Ox8.png">
+<class="center">
 
 ## Wireframes PoC
 
