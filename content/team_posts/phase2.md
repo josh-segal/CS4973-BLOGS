@@ -10,7 +10,7 @@ authors:
   - "andy_sun"
   - "dylan_toplas"
   - "ramsey_salem"
-showAuthorsBadges : false
+showAuthorsBadges : true
 ---
 
 # Phase 2 CS 4973 Group 4
@@ -25,9 +25,24 @@ To support our goal of building the application in an organized manner, a compre
 - M:N relationships
 - Multivalued attributes
 
+### Global ER Diagram
 
 <img src="https://i.imgur.com/bpkJ9rb.png">
 <class="center"/>
+
+### Local ER Diagrams
+
+#### Investor User ER Diagram
+
+![investor ER](static/investor_ER.png)
+
+#### Political Manager User ER Diagram
+
+![manager ER](static/manager_ER.png)
+
+#### Journalist User ER Diagram
+
+![journalist ER](static/journalist_ER.png)
 
 ## Wireframes PoC
 
@@ -42,6 +57,8 @@ The next step was to convert our ER diagram into a database schema in MySQL. Key
 
 <img src="https://i.imgur.com/83xUkcC.png">
 <class="center"/>
+
+[SQL DDL file](static/SQL_DDL.sql)
 
 ## Data Collection 
 

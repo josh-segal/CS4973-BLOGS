@@ -10,7 +10,7 @@ authors:
   - "andy_sun"
   - "dylan_toplas"
   - "ramsey_salem"
-showAuthorsBadges : false
+showAuthorsBadges : true
 ---
 
 # Phase 1 CS 4973 Group 4
