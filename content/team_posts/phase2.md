@@ -25,6 +25,18 @@ To support our goal of building the application in an organized manner, a compre
 - M:N relationships
 - Multivalued attributes
 
+### Changelog of User Stories
+
+#### John (Investor)
+- ADDITION - As an investor, I want the to paper trade stocks I view on this app so that I can track my portfolio and ROI, and learn what trades were good or bad short and long term.
+
+#### Caroline (Political Manager)
+- ADDITION - As a campaign manager, I want to track the activity of the politicians I am working with, so that I can understand their motives and warn them of suspisious activity.
+- DELETION - As a campaign manager, I want to track the impact of my revelations on public opinion and approval ratings, so I can measure the effectiveness of my campaign strategies.
+
+#### Bobby (Journalist)
+- ADDITION - As an investigative journalist, I want to track the progression of legislation, so I can see what politicians are buying stocks around landmarks of a piece of legislation.
+
 ### Global ER Diagram
 
 <img src="https://i.imgur.com/bpkJ9rb.png">
