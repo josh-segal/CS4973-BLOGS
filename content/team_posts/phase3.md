@@ -48,3 +48,29 @@ As a team we decided to switch our approach to building the models. Originally w
 
 Throughout the model exploration process, we found how complex a simple linear regression model can be. One of the biggest challenges we encountered was determining if a linear regression model was even appropriate. For instance, when predicting the volume of stocks traded by politicians or a certain stock price over time, we found no distinct pattern, with values varying widely. This resulted in very low R² scores (~0.01-0.03).
 To improve the model, we shortened the time frame from a few months, for example,(usually the users are able to adjust the dates) to one week over a couple of months. This change led to periods with a more consistent slope and higher R² scores. We found that this logic makes sense, because there are just too many variables, not just politicians that can influence stock prices, and so one idea we were able to conclude was that politicians' stock trades often have a short-term effect on stock prices.
+
+## First Iteration of App
+
+### Investor Persona
+For the investor persona, some of the functionalities implemented were the ability to view stocks performance and track desireable stocks. The same functionality was done for politicians as seen below:
+
+<img src="https://i.imgur.com/AJPwbzV.png"/>
+
+ Date range and stocks will be controlled by the users.
+
+<!-- <img src="https://i.imgur.com/fvgnif2.png"/> -->
+<img src="https://i.imgur.com/MO6HyFY.png"/> 
+
+The most searched stocks/politician are displayed before the search dropdown.
+
+### Political Manager Persona
+For the political manager persona, the functionalities added were the ablity to edit the manager profiles and the ability to search the politician like the investor persona
+
+<img src="https://i.imgur.com/tuDt7bT.png">
+
+## Machine Learning Model
+As discussed above, the first machine learning model is a linear regression on stock performance after a key event (politician trade). The prediction is not a single line due to the exchange market being closed on weekends.
+
+<img src="https://i.imgur.com/tajWstF.png"> 
+
+In terms of calling the model in the application, we implemented that on the Journalist persona as seen below:
