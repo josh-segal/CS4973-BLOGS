@@ -49,7 +49,6 @@ As a team we decided to switch our approach to building the models. Originally w
 Throughout the model exploration process, we found how complex a simple linear regression model can be. One of the biggest challenges we encountered was determining if a linear regression model was even appropriate. For instance, when predicting the volume of stocks traded by politicians or a certain stock price over time, we found no distinct pattern, with values varying widely. This resulted in very low R² scores (~0.01-0.03).
 To improve the model, we shortened the time frame from a few months, for example,(usually the users are able to adjust the dates) to one week over a couple of months. This change led to periods with a more consistent slope and higher R² scores. We found that this logic makes sense, because there are just too many variables, not just politicians that can influence stock prices, and so one idea we were able to conclude was that politicians' stock trades often have a short-term effect on stock prices.
 
-<<<<<<< HEAD
 ## First Iteration of App
 
 ### Investor Persona
@@ -75,7 +74,3 @@ As discussed above, the first machine learning model is a linear regression on s
 <img src="https://i.imgur.com/tajWstF.png"> 
 
 In terms of calling the model in the application, we implemented that on the Journalist persona as seen below:
-=======
-<img src="https://imgur.com/XGiao41">
-<class="center">
->>>>>>> e9ef791d4de4d9e97e494c51176033c5e405bc88
