@@ -1,13 +1,13 @@
 ---
 title: "Week 4 Blog"
-date: 2024-06-11
+date: 2024-06-10
 draft: false
 description: ""
 slug: "fourth"   # if you use, needs to be different for every post
 tags: ["authors", "config", "docs"]
 authors:
   - "joshua_segal"
-showAuthorsBadges : false
+showAuthorsBadges : falses
 ---
 
 # Final Push
