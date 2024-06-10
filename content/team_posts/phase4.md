@@ -32,3 +32,6 @@ To improve the design of our app and make it more unique, we implemented dropdow
 ## Final Thoughts
 
 To present the utilities of the application, we created a slides show to support our 30 minutes presentation that happened on Monday, June 10 2024 on our last day of the dialogue. The team thanks you for the engagement and we hope you enjoy using the application.
+
+## Link to Presentation
+https://docs.google.com/presentation/d/1hv6pK8exUZkUF5u43LQW8GSZbZ8jVukbYMO3Q2gwlnU/edit?pli=1#slide=id.g2e489ec6cba_1_51
