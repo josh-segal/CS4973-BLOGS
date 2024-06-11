@@ -22,11 +22,4 @@ One talk that really stood out to me was our discussion with Pierre Dewitte, Res
 
 ## Longevity - The Project
 
-Over the course of this week we were tasked with translating our theoretical users, personas, wireframes, and schemas into real code and data. One thing that became quickly apparant is something will always go wrong from theory to practice. A struggle I faced in creating my first RESTful API routes actually came less from the flask and docker framework, that controls most of the complicated stuff, and actually from a silly error within streamlit. I spent hours and hours rewriting my code on the flask/docker side, checking routes, making sure data was clean, etc. etc. But in the end, you're just not allowed to nest buttons in streamlit. These types of bugs happen a lot in coding, and being able to take a step back and compartmentalize a process is *key* in diagnosing and solving it (with the help of your much more knowledgable professor). In the future, I am excited o see the full project come together!
-
-
-
-
-
-
-
+Over the course of this week we were tasked with translating our theoretical users, personas, wireframes, and schemas into real code and data. One thing that became quickly apparant is something will always go wrong from theory to practice. A struggle I faced in creating my first RESTful API routes actually came less from the flask and docker framework, that controls most of the complicated stuff, and actually from a silly error within streamlit. I spent hours and hours rewriting my code on the flask/docker side, checking routes, making sure data was clean, etc. etc. But in the end, you're just not allowed to nest buttons in streamlit. These types of bugs happen a lot in coding, and being able to take a step back and compartmentalize a process is *key* in diagnosing and solving it (with the help of your much more knowledgable professor). In the future, I am excited to see the full project come together!
