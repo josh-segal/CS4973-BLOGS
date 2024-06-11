@@ -23,16 +23,49 @@ For our first machine learning model, we utilized a simple linear regression mod
 
 For our second machine learning model, we chose to implement a Long Short-Term Memory model to predict future stock performance after a politician has bought/sold a stock. This model took a lot of time, considering it is a subset of a recurrent neural network, we never had time to cover this in class, so it was all self taught. Although it is fully implemented into our website, still we all do not have a complete understanding of how the layers or the network interact with data. The model was made to predict the stock price, specifically stocks after they were bought/sold after a politician made a trade on specific stocks. This would show how there is a potential for insider trading due to the prediction and the amount of a stock bought at a certain time. 
 
+<img src="https://i.imgur.com/Ps7mWMz.png">
+First ML model
+
 ## Gathering Real Data
 
 To gather real data, we used web scraping of this website (https://www.capitoltrades.com/) to gather politicians' orders. From those stocks, Yfinance was used to get the last 3 years data for each. We then downloaded the dataframe as a csv and used a program to write the “insert” statements. We also grabbed a csv file from congress.gov, and cleaned the data and made it into a new csv file. This csv file had data on all past bills that were passed, and what congress person sponsored that bill. This data is displayed in the stock detail page and it is used to train the machine learning models. The last step was to gather real legislation data from Kaggle as the official government website did not allow for web scrapping. 
 
+In gathering this data we faced both compute time and storage capacity constraints. In order to mitigate this we further seperated our tables to reduce complexity of individual queries.
+
+<img src="https://i.imgur.com/tPMWaa8.png">
+Final SQL Database
+
 ## Overall Software Architecture
 Overall, our app was successfully able to have both the front and back end communicate with each other using routes that we built in our code. With the requests, we were either able to GET, POST, UPDATE, or DELETE from the selected database table and have the changes been seen on Streamlit. 
+
+## Tech Stack
+
+### Streamlit 
+Streamlit served as the front-end framework, enabling quick development of interactive dashboards. Its simple, Pythonic API allowed us to quickly build a full-stack web applications, handling real-time data updates.
+
+### Flask 
+Flask was used to build the backend, providing a lightweight and flexible framework. Flask allowed us to implement RESTful endpoints and integrate seamlessly with the Streamlit front-end and MySQL database.
+
+### Docker
+Docker's containerization technology encapsulated our application and its dependencies, guaranteeing identical performance regardless of the underlying infrastructure. This setup facilitated easy deployment and scaling of the application.
+
+### MySQL
+MySQL was our data storage tool. Its relational database system provided reliable and efficient querying capabilities.
+
+Together, these technologies created a cohesive and efficient architecture for our CS4973 project, combining interactive visualization, flexible web services, consistent deployment, and reliable data management.
 
 ## Improving User Interface
 
 To improve the design of our app and make it more unique, we implemented dropdowns instead of a search box as we had in the last phase. This provides a more modern look in the search and ensures that the user views their search results in real time before making a decision. Additionally, a brief description of each user persona's needs for the app was added in the home page for clarification. 
+
+<img src="https://i.imgur.com/OhcbNzX.png">
+Home Page
+
+<img src="https://i.imgur.com/lZiGMSW.png">
+Politician Search
+
+<img src="https://i.imgur.com/ybreyQY.png">
+Legislations Info
 
 ## Final Thoughts
 
