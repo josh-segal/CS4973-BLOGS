@@ -23,3 +23,11 @@ I also contribuited to add dropdowns for stock and politician searches so that t
 Once we got the stock data, Andrew, Ramsey, and me worked on fixing the stock search functionality and displaying the stock's closing values in the stock detail page. The data was not ordered so we fixed that and printed the last 90 days of stock market data. 
 
 In terms of presentations and travel, this week was extremely fun, specially the C-Mine and Thor Park presentations. I also really enjoyed going to Brussels and working on that cafe. 
+
+Resume:
+
+### Public Interest Application Development:
+- Collaborated to build a full stack app using Flask and Streamlit that predicts stock performance based on politician trade behaviour and their involvement in different legislations.
+- Designed a relational datab model and implemented it in MySQL with 22 tables and created routes in Flask to access needed data to support features for different user personas.
+- Used yfinance library to retrieve 1 million data points on stocks and created a search feature that includes a visualization of the stock's closing value for the last 3 years
+- Assisted in deploying linear regression and LSTM ML models to predict stock performance and politician trade volume.
