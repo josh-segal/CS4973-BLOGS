@@ -20,3 +20,10 @@ The most challenging aspect of this project was collaborating on a “CS” proj
 Easily the most enjoyable part of the project was the people. Over the past few days, I grew very close to my classmates as we bonded over the endless challenges of the project. I am constantly amazed by their ability to maintain a positive attitude despite often getting no more than four hours of sleep a night. Their perseverance inspired me to stay positive and push forward, making me a better person. I am incredibly grateful for them and everyone involved in this project. I have no regrets about the past four weeks, and I am so going to miss them back home.
 
 
+## Resume format:
+
+* Extracted and processed data from APIs and web scraping, followed by creating machine learning models to analyze and predict trends.
+* Developed Flask API routes to handle data requests, integrate ML models, and facilitate communication between backend and frontend.
+* Built an interactive web application using Streamlit to provide user-friendly access to data insights and predictions.
+
+
