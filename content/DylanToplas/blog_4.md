@@ -27,7 +27,7 @@ In terms of presentations and travel, this week was extremely fun, specially the
 Resume:
 
 ### Public Interest Application Development:
-- Collaborated to build a full stack app using Flask and Streamlit that predicts stock performance based on politician trade behaviour and their involvement in different legislations.
-- Designed a relational datab model and implemented it in MySQL with 22 tables and created routes in Flask to access needed data to support features for different user personas.
+- Collaborated to build a full stack app using Flask and Streamlit that predicts stock performance based on politician trade behavior and their involvement in different legislations.
+- Designed a relational database system and implemented it in MySQL with 22 tables and created routes in Flask to access needed data to support features for different user personas.
 - Used yfinance library to retrieve 1 million data points on stocks and created a search feature that includes a visualization of the stock's closing value for the last 3 years
 - Assisted in deploying linear regression and LSTM ML models to predict stock performance and politician trade volume.
