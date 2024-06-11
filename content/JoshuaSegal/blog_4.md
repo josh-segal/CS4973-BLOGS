@@ -22,7 +22,21 @@ One event that really stood out to me this week was the football game between Be
 
 ## The Project
 
-Over the course of this week, we were tasked with enhancing our user interface, integrating real data into our stocks, politicians, and legislation modules, and implementing machine learning models into the application. A particular struggle I faced was not with the machine learning algorithms themselves but rather with the database design. While improving the UI and data integration, I encountered issues with our stock data. The problem was withiin our database structures that had different attributes for the stock table compared to the data we had. We needed to create new tables, such as stock_unique, to manage unique stock entries effectively.  With a large amount of help, we were able to resolve the issues. Looking back, it was exciting to see our full project come together, looking to blend practical UI, accurate data, and powerful machine learning capabilities. Being able to architect a full-stack application in such a short time was a great feeling. Next step deployment!
+Over the course of this week, we were tasked with enhancing our user interface, integrating real data into our stocks, politicians, and legislation modules, and implementing machine learning models into the application. A particular struggle I faced was not with the machine learning algorithms themselves but rather with the database design. While improving the UI and data integration, I encountered issues with our stock data. The problem was withiin our database structures that had different attributes for the stock table compared to the data we had. We needed to create new tables, such as stock_unique, to manage unique stock entries effectively. Another highlight of the project was learning how to keep routes to simple atomic purposes by splitting up operations and utilzing payload effectively.
+
+In total, I worked on the theoretical database design, route designing, and streamlit presentation, and all were equally enjoyable!
+
+Looking back, it was exciting to see our full project come together. Being able to architect a full-stack application in such a short time was a great feeling. Next step deployment!
+
+## Resume Points
+
+- Designed and Implemented a modern data-driven full-stack web application with Flask, Streamlit, and Docker to track politician stock trading and legislation creation for investment insights
+
+- Leveraged MySQL database for efficient data management and scalability of >300k data points across 22 tables
+
+- Architected RESTful API routes for 3 user personas across GET, POST, PUT, DELETE operations
+
+- Interfaced ML models on project database data for stock transaction price and volume predictions
 
 
 
